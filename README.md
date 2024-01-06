@@ -1,3 +1,7 @@
+# installation :
+- clone the repo
+- Download 'resnet-34_kinetics.onnx' from internet and place in the source folder 
+
 # how to run :
 ```
 python3 HAR.py --model resnet-34_kinetics.onnx --classes Actions.txt
